@@ -4,7 +4,7 @@ classe deve ter um construtor que inicializa esses dados. Adicionalmente, crie u
 que aumenta a idade da pessoa em 1, e um método exibirIdade que imprime no console a idade atual. Para
 testar, crie um objeto Pessoa no seu método main, exiba sua idade, chame o método fazerAniversario e exiba
 a idade novamente para confirmar a alteração.*/
-package projetos.modelandopessoa.src;
+package projetos.ex1_modelandopessoa.src;
 
 public class Pessoa {
     public String nome;
